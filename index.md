@@ -54,14 +54,9 @@ It is requested the following information is provided:
 * Where you would be available to meet – e.g. at Lambeth Town Hall or in a local library etc.  
 
 
-
-
 ## Contact Us / Find Out More
 If you would like to get involved please contcat use on [📧](mailto:digitalplanning@lambeth.gov.uk)
 
 Follow us on [![Twitter](https://ripa-digitalplanning.github.io/images/twitter_FAVI.png)](https://twitter.com/digitalplantech "Right click to open in new tab")
-
-[<img src="https://ripa-digitalplanning.github.io/images/twitter_FAVI.png" style="display: block; margin: auto;" />](https://twitter.com/digitalplantech "Right click to open in new tab")
-
 
 To find out more about the project, please visit the Reducing Invalid Planning Applications (RIPA) [website](https://www.ripa.digital/ "Right click to open in new tab")
