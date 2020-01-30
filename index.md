@@ -59,8 +59,6 @@ It is requested the following information is provided:
 ## Contact Us / Find Out More
 If you would like to get involved please contcat use on [📧](mailto:digitalplanning@lambeth.gov.uk)
 
-Follow us on [Twitter](https://twitter.com/digitalplantech "Opens in new tab")
-
-![Twitter](https://github.com/RIPA-DigitalPlanning/RIPA-DigitalPlanning.github.io/blob/master/images/twitter_FAVI.png)
+Follow us on [![Twitter](https://github.com/RIPA-DigitalPlanning/RIPA-DigitalPlanning.github.io/blob/master/images/twitter_FAVI.png)](https://twitter.com/digitalplantech "Opens in new tab")
 
 To find out more about the project, please visit the Reducing Invalid Planning Applications (RIPA) [website](https://www.ripa.digital/ "Opens in new tab")
