@@ -61,6 +61,6 @@ If you would like to get involved please contcat use on [📧](mailto:digitalpla
 
 Follow us on [Twitter](https://twitter.com/digitalplantech "Opens in new tab")
 
-![Twitter](https://github.com/RIPA-DigitalPlanning/RIPA-DigitalPlanning.github.io/blob/master/images/twitter.jpg)
+![Twitter](https://github.com/RIPA-DigitalPlanning/RIPA-DigitalPlanning.github.io/blob/master/images/twitter_FAVI.png)
 
 To find out more about the project, please visit the Reducing Invalid Planning Applications (RIPA) [website](https://www.ripa.digital/ "Opens in new tab")
