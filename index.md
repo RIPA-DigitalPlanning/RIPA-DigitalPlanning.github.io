@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome RIPA (Reducing Invalid Planning Applications) Project Blog
 
-[WebSite](https://www.ripa.digital/)
+Reducing Invalid Planning Applications (RIPA) is an open R&D project funded by the Ministry of Housing, Communities and Local Government’s Local Digital Fund to explore and develop 21st century digital services across Local Government. The outputs of this project will be openly shared, in such a way that they can be easily adapted and adopted by any local authority or private sector company wishing to provide a digital planning submissions service.
+
+You can find out more about the project [here](https://www.ripa.digital/)
 
 You can use the [editor on GitHub](https://github.com/RIPA-DigitalPlanning/RIPA-DigitalPlanning.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
