@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[Link](https://www.ripa.digital/)
+[WebSite](https://www.ripa.digital/)
 
 You can use the [editor on GitHub](https://github.com/RIPA-DigitalPlanning/RIPA-DigitalPlanning.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
