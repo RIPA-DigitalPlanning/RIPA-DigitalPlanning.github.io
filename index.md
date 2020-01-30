@@ -43,7 +43,7 @@ Help us design a better system for planning application submissions - Would you 
 
 Involvement would include someone from the project arranging to either meet and/or visit you, to have a quick chat from 30 minutes to perhaps an hour, to understand how the service works for you currently and any challenges with the current systems you experience, and then showing you what we've designed so we can see what you like or don't like about it. We'll use your feedback to iterate and improve the designs.
 
-If you're interested in getting involved please get in touch with us by email [digitaplanning](mailto:digitalplanning@lambeth.gov.uk).
+If you're interested in getting involved please get in touch with us by email [📧](mailto:digitalplanning@lambeth.gov.uk).
 
 It is requested the following information is provided:
 
@@ -54,9 +54,11 @@ It is requested the following information is provided:
 * Where you would be available to meet – e.g. at Lambeth Town Hall or in a local library etc.  
 
 
+
+
 ## Contact Us / Find Out More
-If you would like to get involved please contcat use on [digitaplanning](mailto:digitalplanning@lambeth.gov.uk)
+If you would like to get involved please contcat use on [📧](mailto:digitalplanning@lambeth.gov.uk)
 
-Follow us on [Twitter](https://twitter.com/digitalplantech){target=_blank} 
+Follow us on [Twitter](https://twitter.com/digitalplantech "Opens in new tab"){target=_blank} 
 
-To find out more about the project, please visit the Reducing Invalid Planning Applications (RIPA) [website](https://www.ripa.digital/){target=_blank} 
+To find out more about the project, please visit the Reducing Invalid Planning Applications (RIPA) [website](https://www.ripa.digital/ "Opens in new tab"){target=_blank} 
