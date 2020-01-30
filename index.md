@@ -20,16 +20,16 @@ Reasons for invalid applications
 
 The 10 most common reasons that applications are made invalid at Lambeth are:
 
-⋅⋅* Application submitted without a CIL (Community Infrastructure Levy) Additional Information form. 
-⋅⋅* Application forms not signed and/or dated appropriately. 
-⋅⋅* Forms not signed or dated or incorrect certificate completed. 
-⋅⋅* Incorrect fee or no fee at all provided.
-⋅⋅* Drawings not labeled clearly, correctly or at all.
-⋅⋅* Inaccurate or incomplete plans and information. 
-⋅⋅* Plan, elevation and/or section drawings that do not match each other. 
-⋅⋅* Drawings not drawn to a recognized scale. 
-⋅⋅* No red line is drawn around the application site on the site location plan. More details of this requirement can be found in the National Planning Practice Guidance.
-⋅⋅* Specialist reports not included – e.g. Design and Access or Heritage Statements. . 
+* Application submitted without a CIL (Community Infrastructure Levy) Additional Information form.  
+* Application forms not signed and/or dated appropriately.  
+* Forms not signed or dated or incorrect certificate completed.  
+* Incorrect fee or no fee at all provided.  
+* Drawings not labeled clearly, correctly or at all.  
+* Inaccurate or incomplete plans and information.  
+* Plan, elevation and/or section drawings that do not match each other.  
+* Drawings not drawn to a recognized scale.  
+* No red line is drawn around the application site on the site location plan. More details of this requirement can be found in the National Planning Practice Guidance.  
+* Specialist reports not included – e.g. Design and Access or Heritage Statements.  
 
 ## Outcome
 
@@ -46,11 +46,12 @@ Involvement would include someone from the project arranging to either meet and/
 If you're interested in getting involved please get in touch with us by email [digitaplanning](mailto:digitalplanning@lambeth.gov.uk).
 
 It is requested the following information is provided:
-⋅⋅* Your name 
-⋅⋅* Are you a resident/agent / previous or potential applicant/community group?
-⋅⋅* Your email address
-⋅⋅* Your telephone number 
-⋅⋅* Where you would be available to meet – e.g. at Lambeth Town Hall or in a local library etc.
+
+* Your name 
+* Are you a resident/agent / previous or potential applicant/community group?  
+* Your email address  
+* Your telephone number  
+* Where you would be available to meet – e.g. at Lambeth Town Hall or in a local library etc.  
 
 
 ## Contact Us / Find Out More
